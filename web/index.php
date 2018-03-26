@@ -124,10 +124,10 @@ if(isset($_GET['v'])){
       <input type="text" name="v" style="width: 50%;height: 50px;border: 2px solid #aaa;box-sizing: border-box;padding: 14px 18px;" placeholder="Fill in youtube link or search here"  autocomplete="off" /><button type="submit"  style="width: 18%;border: none;height: 50px;background-color: #e62117;color: #fff;font-size: 18px;display: inline-block;" ><i class="fa fa-youtube-play fa-lg pr-1"></i>Play</button>
   </div>
     </form>
-    <p class="text-black m-0">About LeoCloud YT</p>
-    <p class="text-black m-0">This tool is built for testing purpose</p>
-    <p class="text-black m-0">You take your own responsibilities while using our tool</p>
-    <p class="text-black m-0">Powered by LeoCloud Inc.</p>
+    <p class="text-white m-0">About LeoCloud YT</p>
+    <p class="text-white m-0">This tool is built for testing purpose</p>
+    <p class="text-white m-0">You take your own responsibilities while using our tool</p>
+    <p class="text-white m-0">Powered by LeoCloud Inc.</p>
     </div>
     
     <div class="row pt-2 pb-2">
